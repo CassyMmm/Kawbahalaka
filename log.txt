@@ -1,0 +1,1754 @@
+02-27 22:12:08.267  1176  1176 E wificond: vivo add tx_good 307584 tx_bad 1 rx_good 575524 tx_retry 20729 tx_retry_times 0
+03-02 07:44:15.127 30758 30758 E e.gcash.androi: Not starting debugger since process cannot load the jdwp agent.
+03-02 07:44:15.164   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.globe.gcash.android.Default, state:1, pid:30758, uid:10292, fps:60
+03-02 07:44:15.164   746   829 I libPowerHal: [perfNotifyAppState] foreground:com.globe.gcash.android, pid:30758, uid:10292
+03-02 07:44:17.247 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:44:17.329 30758 30945 E OpenGLRenderer: Device claims wide gamut support, cannot find matching config, error = EGL_SUCCESS
+03-02 07:44:17.347 30758 31006 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+03-02 07:44:17.390 30758 30945 E OpenGLRenderer: fbcNotifyFrameComplete error: undefined symbol: fbcNotifyFrameComplete
+03-02 07:44:17.390 30758 30945 E OpenGLRenderer: fbcNotifyNoRender error: undefined symbol: fbcNotifyNoRender
+03-02 07:44:17.829 30758 31075 E chromium: [ERROR:simple_file_enumerator.cc(21)] opendir /data/user/0/com.globe.gcash.android/cache/WebView/Default/HTTP Cache/Code Cache/js: No such file or directory (2)
+03-02 07:44:17.829 30758 31075 E chromium: [ERROR:simple_index_file.cc(614)] Could not reconstruct index from disk
+03-02 07:44:18.067 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:44:18.076   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.login.LoginActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 07:44:18.081   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.globe.gcash.android.Default, state:0, pid:30758, uid:10292, fps:60
+03-02 07:44:18.342 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:44:22.232 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 07:44:22.419 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 07:44:22.420 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:44:22.427 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 07:44:22.432 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 07:44:22.435   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 07:44:22.438   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.login.LoginActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 07:44:23.022 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 3
+03-02 07:44:23.557   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:44:23.558   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:44:23.899 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 07:44:23.901 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 07:44:23.902 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 07:44:24.558   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:44:24.558   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 07:44:24.660 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:44:24.685   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:60
+03-02 07:44:24.699   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 07:44:24.803 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:44:25.149   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 07:44:25.558   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:44:25.558   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:44:25.591 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:44:25.602   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:-1
+03-02 07:44:25.610   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:-1
+03-02 07:44:25.618 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:44:26.446 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:44:26.456   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:-1
+03-02 07:44:26.460   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 07:44:26.576 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:44:26.942   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 07:44:27.559   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:44:27.559   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:44:29.559   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:44:29.560   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:44:32.674 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.674 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.674 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.674 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.674 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.834 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.834 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.834 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.834 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.834 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.835 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.836 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:32.930 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 1
+03-02 07:44:32.930 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 1
+03-02 07:44:32.930 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 1
+03-02 07:44:33.560   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:44:33.561   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:44:35.151 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:44:35.152 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.997 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.998 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:12.999 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.012 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.084 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.111 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.128 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.145 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.163 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.179 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.196 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.214 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.229 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.245 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.262 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.279 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.297 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.313 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.329 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.345 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.377 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.394 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.411 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.444 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.460 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.478 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.493 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.510 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.526 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.543 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.559 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.576 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.593 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.609 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.627 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.643 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.660 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.676 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.693 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.710 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.726 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.743 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.760 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.793 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.811 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.826 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.843 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.859 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.876 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:13.893 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.010 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.026 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.045 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.060 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.076 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.109 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.127 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.161 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.179 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.196 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.214 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.230 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.246 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.262 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.278 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.295 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.313 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.330 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.344 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.363 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.380 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.397 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.412 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.429 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.445 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.465 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.477 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.495 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.530 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.547 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.563 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.580 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.594 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.613 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.629 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.645 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.663 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.680 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.695 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.713 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.729 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.748 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.763 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.779 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.794 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.812 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:14.830 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.012 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.028 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.045 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.065 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.078 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.094 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.112 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.130 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.144 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.161 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.178 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.195 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.213 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.228 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.247 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.265 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.315 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.315 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.316 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.325 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.346 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.363 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.379 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.393 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.412 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.429 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.444 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.461 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.478 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.496 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.528 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.547 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.561 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.577 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.593 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.611 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.629 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.644 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.661 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.679 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.695 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.711 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.728 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:15.745 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.011 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.027 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.043 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.060 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.077 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.096 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.112 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.128 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.144 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.161 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.177 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.194 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.212 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.229 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.244 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.260 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.277 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.293 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.310 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.329 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.345 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.360 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.377 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.393 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.411 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.445 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.462 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.478 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.495 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.528 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.544 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.561 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.577 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.594 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.612 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.627 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.644 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.660 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.681 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.693 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.711 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.727 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.745 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.761 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.795 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.811 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:16.826 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.012 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.028 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.043 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.060 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.077 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.094 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.111 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.128 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.159 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.179 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.194 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.210 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.227 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.244 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.259 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.278 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.293 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.310 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.328 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.345 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.359 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.377 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.394 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.410 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.445 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.461 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.476 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.494 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.512 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.528 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.544 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.561 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.577 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.592 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.609 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.626 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.642 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.661 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.676 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.710 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.726 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.743 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.760 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.779 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.793 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.809 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:17.828 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.009 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.026 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.042 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.066 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.075 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.094 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.108 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.126 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.145 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.158 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.177 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.191 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.209 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.228 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.241 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.258 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.276 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.293 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.310 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.325 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.342 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.360 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.376 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.395 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.408 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.424 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.443 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.460 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.475 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.496 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.509 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.529 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.543 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.559 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.577 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.595 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.610 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.627 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.643 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.661 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.675 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.694 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.710 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.726 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.741 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.761 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.775 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.793 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.810 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:18.826 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.011 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.027 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.043 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.059 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.076 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.091 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.141 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.141 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.342 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.363 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.374 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.392 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.409 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.426 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.448 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.476 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.492 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.509 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.526 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.543 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.560 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.574 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.594 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.609 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.625 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.642 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.660 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.676 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.694 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.710 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.724 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.742 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.760 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.775 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.792 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.809 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.826 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.841 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.860 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.876 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.892 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.909 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.925 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.941 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.959 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.977 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:19.993 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.009 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.026 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.040 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.060 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.075 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.092 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.108 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.144 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.158 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.176 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.192 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.210 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.225 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.242 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.258 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.275 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.292 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.307 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.328 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.341 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.358 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.376 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.390 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.728 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.740 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.755 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.771 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.789 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.805 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.825 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.841 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.857 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.873 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.890 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.906 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.941 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.957 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.973 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:20.990 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.006 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.023 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.040 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.057 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.073 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.090 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.107 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.123 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.140 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.157 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.190 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.207 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.224 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.240 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.256 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.273 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.291 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.307 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.323 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.340 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.356 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.373 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.407 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.423 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.440 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.457 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.490 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.506 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.522 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.540 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.556 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.573 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.590 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.608 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.624 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.640 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.658 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.673 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.689 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.707 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.740 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.756 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.773 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.790 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:21.825 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.008 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.021 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.039 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.059 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.073 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.091 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.104 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.139 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.155 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.174 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.190 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.206 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.240 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.257 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.272 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.292 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.305 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.323 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.340 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.357 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.374 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.408 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.423 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.439 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.455 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.489 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.507 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.522 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.539 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.555 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.575 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.590 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.605 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.625 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.638 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.654 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.672 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.690 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.706 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.721 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.738 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.755 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.774 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.788 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.806 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:22.823 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.009 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.022 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.037 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.056 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.074 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.090 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.105 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.121 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.138 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.156 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.174 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.190 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.205 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.239 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.258 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.273 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.288 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.305 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.322 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.341 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.355 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.373 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.405 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.422 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.439 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.455 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.488 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.506 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.522 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.538 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.554 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.572 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.590 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.605 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.622 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.642 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.654 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.672 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.689 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.705 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.721 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.737 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.756 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.788 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.804 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:23.821 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.006 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.021 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.038 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.056 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.072 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.089 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.104 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.120 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.139 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.156 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.175 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.186 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.223 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.239 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.254 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.270 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.289 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.305 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.322 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.337 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.356 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.372 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.404 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.420 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.437 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.454 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.472 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.487 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.504 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.521 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.539 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.555 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.569 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.587 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.604 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.624 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.641 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.655 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.669 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.687 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.704 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.739 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.754 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.787 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.805 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:24.819 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.004 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.021 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.037 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.054 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.071 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.089 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.106 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.124 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.138 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.154 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.170 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.186 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.206 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.220 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.238 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.253 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.269 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.287 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.305 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.320 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.337 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.353 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.370 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.405 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.419 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.437 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.454 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.470 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.486 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.505 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.520 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.537 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.554 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.569 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.588 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.606 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.636 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.654 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.673 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.687 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.702 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.721 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.737 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.752 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.771 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.787 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.803 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:25.820 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.004 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.020 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.038 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.055 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.070 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.087 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.103 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.121 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.139 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.154 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.169 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.187 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.239 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.256 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.273 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.288 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.304 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.320 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.337 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.354 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.372 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.389 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.404 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.420 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.439 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.454 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.471 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.486 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.503 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.521 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.538 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.555 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.570 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.586 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.602 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.621 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.639 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.652 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.670 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.687 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.703 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.720 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.737 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.753 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.787 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.804 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:26.820 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.004 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.021 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.035 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.053 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.071 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.087 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.104 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.120 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.137 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.154 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.171 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.187 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.202 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.220 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.237 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.253 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.271 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.286 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.304 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.320 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.336 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.354 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.370 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.387 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.403 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.418 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.437 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.455 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.469 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.486 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.503 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.520 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.538 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.568 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.587 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.604 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.619 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.637 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.653 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.669 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.686 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.703 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.720 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.735 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.755 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.788 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.803 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:27.818 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.002 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.020 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.037 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.052 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.069 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.086 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.103 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.119 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.134 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.153 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.168 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.186 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.205 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.220 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.236 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.251 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.271 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.286 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.301 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.320 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.337 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.351 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.369 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.386 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.403 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.418 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.437 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.451 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.468 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.484 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.503 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.521 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.535 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.551 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.569 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.586 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.604 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.618 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.636 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.653 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.668 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.686 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.703 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.719 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.735 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.752 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.786 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.802 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:28.817 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.002 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.020 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.034 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.051 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.069 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.086 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.103 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.118 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.135 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.153 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.169 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.185 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.200 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.219 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.235 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.251 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.267 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.287 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.303 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.317 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.335 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.351 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.369 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.385 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.402 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.417 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.436 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.450 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.467 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.485 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.502 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.516 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.535 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.552 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.567 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.587 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.602 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.617 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.634 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.650 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.669 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.686 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.701 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.718 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.733 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.754 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.787 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.802 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:29.817 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.002 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.017 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.035 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.052 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.071 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.082 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.102 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.118 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.151 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.167 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.184 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.200 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.219 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.233 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.253 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.268 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.283 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.301 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.318 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.335 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.350 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.368 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.387 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.401 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.419 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.434 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.450 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.468 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.485 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.502 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.518 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.533 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.551 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.568 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.584 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.600 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.617 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.635 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.649 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.668 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.684 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.701 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.718 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.733 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.752 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.766 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.784 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.801 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:30.815 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.002 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.017 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.035 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.050 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.135 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.135 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.135 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.136 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:31.137 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:32.571   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:45:32.572   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:45:36.232 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.232 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.233 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.233 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.233 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.233 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.234 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:36.234 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:41.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:41.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:41.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:41.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.510 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.511 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.689 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.691 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.691 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.692 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.729   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:45:42.729   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:45:42.832 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.832 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.833 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.887 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.887 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.887 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:42.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.387 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.405 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.405 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.405 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.588 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.607 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.856 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:43.938 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:44.139 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:44.588 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:44.729   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:45:44.730   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:45:44.822 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:45.656 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:45.838 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:46.006 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:46.352 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:46.368 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:46.685 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.157 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.220 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.221 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.222 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.265 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.266 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.280 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.281 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.288 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.289 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.300 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.301 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.308 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.309 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.309 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.309 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.331 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.332 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.332 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.333 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:47.730   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:45:47.731   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:45:48.238 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:48.249 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.890 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.891 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.891 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.891 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.891 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.892 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.892 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.922 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.922 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.922 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:49.923 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:50.622 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:50.771 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:50.821 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:50.986 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:51.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:52.205 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:52.205 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:52.206 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:45:52.206 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.945 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.945 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.945 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.945 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.946 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.946 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.982 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.982 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.982 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:04.982 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:06.734   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:46:06.735   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:46:15.620 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.621 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.621 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.621 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.621 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.697 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.697 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.698 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.698 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.724 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.724 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:15.725 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.140 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.141 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.142 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.143 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.144 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.196 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.197 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.197 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.197 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.197 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.197 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.477 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.889 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.917 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.917 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.917 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:17.918 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:18.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:18.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:18.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:18.427 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:19.738   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:46:19.739   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:46:34.888 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:46:34.909 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:46:34.924   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:60
+03-02 07:46:34.932   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:60
+03-02 07:46:34.977 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 07:46:35.328   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:60
+03-02 07:46:36.741   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:46:36.742   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:46:37.742   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:46:37.743   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:46:38.742   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:46:38.743   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:47:10.921 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:10.921 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:11.882 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:11.883 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:11.883 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:11.883 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:11.935   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:47:11.936   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:47:12.031 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.031 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.031 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.031 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.056 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.056 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.056 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.057 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:12.935   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:47:12.936   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:47:19.762 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:19.763 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:20.937   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 07:47:20.938   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 07:47:21.856 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 07:47:21.856 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:21.856 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:21.856 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:21.857 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 07:47:21.863 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 07:47:21.866 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 3
+03-02 07:47:21.869 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 07:47:21.869 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 07:47:21.869 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 07:47:22.937   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 07:47:22.937   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 07:47:22.956 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 07:47:22.961 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 07:47:22.964 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 07:47:22.967 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 1
+03-02 07:47:22.968 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 1
+03-02 07:47:22.968 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 1
+03-02 07:47:23.054 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 07:47:23.600   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:-1
+03-02 07:47:33.583 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 0
+03-02 07:47:33.583 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 0
+03-02 07:47:33.584 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 0
+03-02 07:48:23.607 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:43:55.131   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.globe.gcash.android.Default, state:1, pid:30758, uid:10292, fps:90
+03-02 09:43:55.131   746   829 I libPowerHal: [perfNotifyAppState] foreground:com.globe.gcash.android, pid:30758, uid:10292
+03-02 09:43:55.285   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:90
+03-02 09:43:55.298   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.globe.gcash.android.Default, state:0, pid:30758, uid:10292, fps:90
+03-02 09:43:55.437 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:43:55.808 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:43:55.808 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:43:55.814 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:43:55.814 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:43:55.820 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:43:55.820 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:43:55.827 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:43:55.827 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:43:56.116 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.116 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.116 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.117 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.158 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.158 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.158 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.253   746   817 I libPowerHal: [updateFPS] pid(30758) : 90 => 60
+03-02 09:43:56.254   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 09:43:56.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:56.348 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:43:59.255   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:43:59.255   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:44:13.611 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:44:13.619   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.login.LoginActivity, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:44:13.623   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:44:13.769 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:44:14.484   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:44:14.485   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.login.LoginActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:44:18.382 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:44:18.382 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:44:18.615 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 09:44:18.617 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:44:18.622 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 09:44:18.628 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 09:44:18.631   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 09:44:18.642   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.login.LoginActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:44:19.154 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 3
+03-02 09:44:19.485   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:44:19.485   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:44:19.943 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 09:44:19.944 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 09:44:19.946 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 09:44:20.030 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 1
+03-02 09:44:20.030 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 1
+03-02 09:44:20.030 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 1
+03-02 09:44:20.485   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:44:20.485   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:44:22.486   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:44:22.487   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:44:28.991 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:44:28.995   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:44:34.597   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 09:44:34.597   746   829 I libPowerHal: [perfNotifyAppState] foreground:com.globe.gcash.android, pid:30758, uid:10292
+03-02 09:44:34.643 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:44:34.856 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:44:34.857 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:44:37.491   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:44:37.492   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:44:39.581 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:44:39.593   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:44:39.598   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:44:39.639 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:44:39.971   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:44:40.492   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:44:40.492   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 09:44:40.770 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.770 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.771 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.772 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.773 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.773 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:40.773 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:49.706 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:44:49.726   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:60
+03-02 09:44:59.006   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:44:59.006   746   829 I libPowerHal: [perfNotifyAppState] foreground:com.globe.gcash.android, pid:30758, uid:10292
+03-02 09:44:59.046 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:44:59.101 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:44:59.101 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:44:59.292 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.292 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.293 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.293 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.295 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.295 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.296 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.361 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.362 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.363 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.412 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.430 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.439 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.458 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.489 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.495   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:44:59.495   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 09:44:59.505 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.522 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.540 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.555 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.573 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.589 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.605 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.623 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.639 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.655 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.712 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.715 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.716 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.717 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.717 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:44:59.718 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:00.755 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:00.756 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:00.756 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:00.756 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.522 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.553 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.776 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.777 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.777 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.777 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.844 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.845 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.845 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.846 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.846 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.846 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.846 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.847 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.848 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:01.848 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:03.087 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:03.100 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:03.101 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:03.101 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:03.470 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.079 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.080 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.081 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.092 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.092 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.092 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.093 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.109 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.109 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.109 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.172 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.173 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.174 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.191 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.191 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.191 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.191 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.211 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:04.212 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.035 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.035 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.065 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.065 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.065 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.065 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.066 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.066 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.066 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:05.066 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.679 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.679 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.680 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.680 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.680 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:06.680 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:08.498   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:45:08.499   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:45:12.061 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.062 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.062 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.063 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.064 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.064 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.064 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:12.410 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:12.418   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:45:12.423   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:45:12.426 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:12.499   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:45:12.499   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:45:13.373 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:13.388   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:60
+03-02 09:45:13.393   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:13.428 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:13.764   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:13.985 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.986 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.986 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.986 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:13.987 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:21.195 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:21.211   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:29.893   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:45:29.893   746   829 I libPowerHal: [perfNotifyAppState] foreground:com.globe.gcash.android, pid:30758, uid:10292
+03-02 09:45:29.929 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:30.013 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:45:30.013 30758 31186 E _V_SensorManager: registerListenerImpl type:19 strType=android.sensor.step_counter delay:200000 maxLatency:0 by: class com.alipay.mobile.healthcommon.stepcounter.APStepProcessor num: 0
+03-02 09:45:30.502   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:45:30.502   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:5, pid:30758, uid:10292, fps:60
+03-02 09:45:43.766 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.766 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.767 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.767 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.767 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.767 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.767 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.768 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.806 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.806 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.806 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.806 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.807 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:43.808 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.430 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:45.442   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 09:45:45.456   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.alibaba.griver.core.ui.activity.GriverBaseActivity$Main, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:45.472 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.472 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.472 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.473 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.483 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:45.630 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.630 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.631 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.655 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.678 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.688 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.704 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.722 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.738 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.757 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:45.774 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.001 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.022 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.038 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.054 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.071 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.088 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.107 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.224 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.299 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:46.945 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:46.956   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 09:45:46.963   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:47.191 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:47.505   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:45:47.505   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:45:47.791   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.dashboard.refactored.presentation.DashboardContainerActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:45:48.505   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:45:48.505   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:45:51.952 30758 30758 E Ads     : JS: Access to XMLHttpRequest at 'https://impression.appsflyer.com/com.litatom.app?advertising_id=92a86caa-423d-48d1-bc5c-2d85f6decffb&af_ad=18%2Blove-%E8%8F%B2%E5%BE%8B%E5%AE%BE-20221216-%E8%8B%8F%E4%BA%9A%E9%87%8C-367.mp4_001&af_ad_id=1758515752284210&af_ad_type=15&af_adset=CSY_AND_LIT_PH_kol%E6%A8%AA%E5%B9%85_pangle_0210_all_aco_purchase_lc_0222-5&af_adset_id=1758515741540354&af_c_id=1757432885260337&af_channel=Pangle&af_ip=110.54.147.0&af_lang=en&af_ref=bytedanceglobal_E.C.P.CrsBVczcZGYpOLbViztED93cmhRiDxJdHpB58SYJD2Tylogamh3xbUNvojxuPw7VR2_OV6HyqpWnYCsRUJhZOf9nwxfSiizfNbOWGS6ATzVym-XcbeKRgkWpLrIJFmbaXzXHg8PX-XnUcQ8MCVpbE-u3M5f7KHYpv2uen5qK_8ngwhg4zyFGJMRTlPDlzhhV8uT0Ch2h2VGL5mpz9VfzwhBkPdmqWBwdmWsd5Fz86-9hMJJHHdEcxK38VPQYthIEdjIuMBog5tzlq1JSenC5WxIqOJchVf2BFh9s6z-B2xeuwqAkbl4&af_siteid=900000000&af_ua=Mozilla%2F5.0+%28Linux%3B+Android+12%3B+V2038+Build%2FSP1A.210812.003%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F110.0.5481.65+Mobile+Safari%2F537.36+%28Mobile%3B+afma-sdk-a-v230514044.230514044.0%29&af_viewthrough_lookback=12h&c=CSY_AND_LIT_PH_kol%E6%A8%AA%E5%B9%85_pangle_0210&clickid=E.C.P.CsgBiEXHUmEAfo29dVYAbXRvDw-8X3zgfy6nf-hmrV8is0OgyPXHMhHn2H_PEEtFb0dWM-740M6jY5tFHUGsPUiNHqf0nkXdvKhbHPzVtc7hneglam09EVKQAKcTahRqTmG9DB7znOZTLJkvC7bauIs9NfJZVe2Ok8Q3_5GWG5DtLO6OVvw8jbxH972tdawTIWeeKW4mHHeXAgALaVc6LpdyXxgY4fWBVY5-3WHjV-h0KnTG4amQfTVsgDR2qw-5uz8NXdkwQ-fZJBMSBHYyLjAaIDyMz0RH2hzw7f8YSAsEXi455Su_lEj_yMg3S4LWKrJO&idfa=&os=0&pid=bytedanceglobal_int&redirect=false' from origin 'https://pubads.g.doubleclick.net' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. (https://pubads.g.doubleclick.net/gampad/ads?caps=inlineVideo_interactiveVideo_mraid1_mraid2_mraid3_sdkVideo_exo3_th_autoplay_mediation_scroll_av_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_ipdof_gls_gcache_sai_demuxedGcache_xSeconds&eid=318496669%2C318500618%2C318486317%2C318491267%2C318482079%2C318483611%2C318484496%2C318484801%2C318503703%2C318507973%2C318508568%2C318508595&format=320x100_as&heap_free=20553496&heap_max=536870912&heap_total=64438280&js=afma-sdk-a-v224400999.223104000.1&mr=787386233500418301%2C787386233500418301%2C1982403996246444164%2C1982403996246444164%2C2530146511563603572%2C2530146511563603572%2C2750353110572252620%2C2750353110572252620%2C3256114378402040470%2C3361666801720329198%2C3361666801720329198%2C3392735788876078852%2C5621142870846876304%2C5621142870846876304%2C6227686553585571335%2C6227686553585571335%2C6553967537361308884%2C6553967537361308884%2C6974285927961378323%2C6974285927961378323%2C7086621513375391325%2C8885023892644186387%2C8978528571275397542%2C8978528571275397542%2C9066634464622661763%2C9066634464622661763%2C-1216045137455835729%2C-1216045137455835729%2C-2368810159539464582%2C-2368810159539464582%2C-3321814135246565755%2C-3321814135246565755%2C-5401888504738378136%2C-5401888504738378136%2C-5750892370322769569%2C-5750892370322769569%2C-6351376474324140691%2C-6351376474324140691%2C-6360014953479991509%2C-6360014953479991509%2C-8575144750559090454%2C-8575144750559090454%2C-9022530515638036176%2C-9022530515638036176&msid=com.globe.gcash.android&preqs=0&request_pkg=gcash.common.android.util.adtech.AdLoaderView%24setupGAM%241%242&seq_num=1&target_api=31#caps=inlineVideo_interactiveVideo_mraid1_mraid2_mraid3_sdkVideo_exo3_th_autoplay_mediation_scroll_av_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_navc_dinmo_ipdof_gls_gcache_sai_demuxedGcache_xSeconds&eid=318496669%252C318500618%252C318486317%252C318491267%252C318482079%252C318483611%252C318484496%252C318484801%252C318503703%252C318507973%252C318508568%252C318508595&format=320x100_as&heap_free=20553496&heap_max=536870912&heap_total=64438280&js=afma-sdk-a-v224400999.223104000.1&mr=787386233500418301%252C787386233500418301%252C1982403996246444164%252C1982403996246444164%252C2530146511563603572%252C2530146511563603572%252C2750353110572252620%2
+03-02 09:45:51.952 30758 30758 E Ads-cont: 52C2750353110572252620%252C3256114378402040470%252C3361666801720329198%252C3361666801720329198%252C3392735788876078852%252C5621142870846876304%252C5621142870846876304%252C6227686553585571335%252C6227686553585571335%252C6553967537361308884%252C6553967537361308884%252C6974285927961378323%252C6974285927961378323%252C7086621513375391325%252C8885023892644186387%252C8978528571275397542%252C8978528571275397542%252C9066634464622661763%252C9066634464622661763%252C-1216045137455835729%252C-1216045137455835729%252C-2368810159539464582%252C-2368810159539464582%252C-3321814135246565755%252C-3321814135246565755%252C-5401888504738378136%252C-5401888504738378136%252C-5750892370322769569%252C-5750892370322769569%252C-6351376474324140691%252C-6351376474324140691%252C-6360014953479991509%252C-6360014953479991509%252C-8575144750559090454%252C-8575144750559090454%252C-9022530515638036176%252C-9022530515638036176&msid=com.globe.gcash.android&preqs=0&request_pkg=gcash.common.android.util.adtech.AdLoaderView%2524setupGAM%25241%25242&seq_num=1&target_api=31:0)
+03-02 09:45:52.505   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:45:52.506   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:45:52.763 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:45:52.776   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:45:52.783   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:45:52.882 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:45:52.912 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 09:45:52.920 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 09:45:52.924 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 3
+03-02 09:45:53.505   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:45:53.506   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:45:53.560   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.option.SendMoneyOptionsActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:45:53.662 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 09:45:53.665 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 09:45:53.667 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 09:45:55.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.203 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.204 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.204 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.204 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.752 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.766 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.783 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.799 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:55.800 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.027 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.027 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.095 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.095 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.218 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.218 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.231 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.231 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.255 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.255 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:56.949 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:57.566 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:57.566 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:45:59.507   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:45:59.507   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:46:00.507   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:46:00.507   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:46:02.507   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:46:02.508   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:46:04.239 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:46:04.252   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:1, pid:30758, uid:10292, fps:-1
+03-02 09:46:04.257   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:0, pid:30758, uid:10292, fps:-1
+03-02 09:46:04.343 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 0
+03-02 09:46:04.398 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 09:46:04.408 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 09:46:04.412 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 3
+03-02 09:46:04.508   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:46:04.508   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:46:04.908   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.revamp.ExpressSendRecipientActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:46:04.998 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 09:46:05.001 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 09:46:05.003 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 09:46:05.508   746   817 I libPowerHal: [updateFPS] pid(30758) : 60 => -1
+03-02 09:46:05.509   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:5, pid:30758, uid:10292, fps:-1
+03-02 09:46:11.510   746   817 I libPowerHal: [updateFPS] pid(30758) : -1 => 60
+03-02 09:46:11.511   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:5, pid:30758, uid:10292, fps:60
+03-02 09:46:12.326 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 1
+03-02 09:46:12.335 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 2
+03-02 09:46:12.336 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 2
+03-02 09:46:12.340 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 3
+03-02 09:46:12.355   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.receipt.revamp.ExpressSendReceiptActivity, state:1, pid:30758, uid:10292, fps:60
+03-02 09:46:12.361   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:46:12.477 30758 30758 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class com.facebook.appevents.codeless.ViewIndexingTrigger num: 3
+03-02 09:46:12.532 30758 31195 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 09:46:12.532 30758 31195 E _V_SensorManager: registerListenerImpl type:2 strType=android.sensor.magnetic_field delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 09:46:12.532 30758 31195 E _V_SensorManager: registerListenerImpl type:4 strType=android.sensor.gyroscope delay:0 maxLatency:0 by: class com.appsflyer.internal.w num: 4
+03-02 09:46:13.062   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.confirmation.revamp.ExpressSendConfirmationActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:46:13.532 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 4
+03-02 09:46:13.534 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 3
+03-02 09:46:13.536 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 2
+03-02 09:46:13.640 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 1
+03-02 09:46:13.640 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 1
+03-02 09:46:13.640 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 1
+03-02 09:46:14.211 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:46:14.211 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:46:14.211 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:46:14.212 30758 30945 E GPUAUX  : [AUX]GuiExtAuxCheckAuxPath:663: Null anb
+03-02 09:46:14.765 30758 30758 E _V_SensorManager: unregisterListenerImpl listener=com.facebook.appevents.codeless.ViewIndexingTrigger@a1fc9dcsensor=NULL num: 1
+03-02 09:46:15.233   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:gcash.module.sendmoney.sendtogcash.expresssend.receipt.revamp.ExpressSendReceiptActivity, state:0, pid:30758, uid:10292, fps:60
+03-02 09:46:15.305 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@3b2e2d49sensor=NULL num: 0
+03-02 09:46:15.305 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@922a4c90sensor=NULL num: 0
+03-02 09:46:15.305 30758 31195 E _V_SensorManager: unregisterListenerImpl listener=com.appsflyer.internal.w@979f95a4sensor=NULL num: 0
+03-02 09:47:15.239 30758 31186 E _V_SensorManager: unregisterListenerImpl listener=com.alipay.mobile.healthcommon.stepcounter.APStepProcessor@87fa9a7sensor=NULL num: 0
+03-02 09:57:06.529   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, act:com.globe.gcash.android, state:3, pid:30758, uid:10292, fps:60
+03-02 09:57:06.529   746   829 I libPowerHal: [perfNotifyAppState] pack:com.globe.gcash.android, pid:30758, STATE_DEAD
